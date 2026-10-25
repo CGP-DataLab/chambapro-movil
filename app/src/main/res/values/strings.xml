@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ChambaPro</string>
+    <string name="lema">Encuentra el servicio que necesitas</string>
+
+    <!-- Formularios -->
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrar">Crear cuenta</string>
+    <string name="ir_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="titulo_registro">Crear cuenta</string>
+    <string name="tipo_cuenta">Tipo de cuenta</string>
+    <string name="rol_cliente">Cliente</string>
+    <string name="rol_proveedor">Proveedor</string>
+
+    <!-- Mensajes de error y éxito -->
+    <string name="error_email">Escribe un correo válido</string>
+    <string name="error_contrasena">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_nombre">El nombre debe tener al menos 3 caracteres</string>
+    <string name="error_credenciales">Correo o contraseña incorrectos</string>
+    <string name="error_email_registrado">Este correo ya está registrado</string>
+    <string name="registro_exitoso">Cuenta creada. Ya puedes iniciar sesión</string>
+
+    <!-- Catálogo -->
+    <string name="saludo_usuario">Hola, %1$s (%2$s)</string>
+    <string name="mis_solicitudes">Mis solicitudes</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="hint_buscar">Buscar servicio o proveedor</string>
+    <string name="sin_resultados">No hay servicios que coincidan con tu búsqueda</string>
+
+    <!-- Detalle -->
+    <string name="detalle_proveedor">Proveedor: %1$s · %2$s</string>
+    <string name="detalle_precio">Desde %1$s</string>
+    <string name="detalle_calificacion">Calificación: %1$.1f de 5</string>
+    <string name="btn_solicitar">Solicitar servicio</string>
+    <string name="btn_volver">Volver</string>
+    <string name="solo_clientes">Solo los clientes pueden solicitar</string>
+    <string name="solicitud_enviada">Solicitud enviada correctamente</string>
+
+    <!-- Solicitudes -->
+    <string name="sin_solicitudes">Aún no has solicitado ningún servicio</string>
+    <string name="solicitud_precio_fecha">%1$s · %2$s</string>
+</resources>
